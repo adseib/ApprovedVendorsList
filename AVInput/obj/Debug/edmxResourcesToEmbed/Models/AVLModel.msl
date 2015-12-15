@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EDV_DataModelStoreContainer" CdmEntityContainer="EDV_DataEntities">
+    <EntitySetMapping Name="EDV_Vendors">
+      <EntityTypeMapping TypeName="EDV_DataModel.EDV_Vendors">
+        <MappingFragment StoreEntitySet="EDV_Vendors">
+          <ScalarProperty Name="Company_Name" ColumnName="Company Name" />
+          <ScalarProperty Name="Approval_Status" ColumnName="Approval Status" />
+          <ScalarProperty Name="Authorized_Checklist" ColumnName="Authorized Checklist" />
+          <ScalarProperty Name="Vendor_No" ColumnName="Vendor No" />
+          <ScalarProperty Name="Products" ColumnName="Products" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="Contact_Name" ColumnName="Contact Name" />
+          <ScalarProperty Name="Contact_Info" ColumnName="Contact Info" />
+          <ScalarProperty Name="Contact_E_Mail" ColumnName="Contact E-Mail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
