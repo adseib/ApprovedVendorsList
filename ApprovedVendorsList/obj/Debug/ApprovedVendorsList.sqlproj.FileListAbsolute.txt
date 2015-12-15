@@ -1,0 +1,5 @@
+c:\users\andre\documents\visual studio 2015\Projects\ApprovedVendorsList\ApprovedVendorsList\bin\Debug\ApprovedVendorsList.dacpac
+c:\users\andre\documents\visual studio 2015\Projects\ApprovedVendorsList\ApprovedVendorsList\obj\Debug\ApprovedVendorsList.dll
+c:\users\andre\documents\visual studio 2015\Projects\ApprovedVendorsList\ApprovedVendorsList\obj\Debug\ApprovedVendorsList.pdb
+c:\users\andre\documents\visual studio 2015\Projects\ApprovedVendorsList\ApprovedVendorsList\bin\Debug\ApprovedVendorsList.dll
+c:\users\andre\documents\visual studio 2015\Projects\ApprovedVendorsList\ApprovedVendorsList\bin\Debug\ApprovedVendorsList.pdb
